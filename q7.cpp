@@ -1,6 +1,6 @@
 /*
  Program: Question 7 from quiz 1.
- Name : 
+ Name : Ashmita
  Roll: 
  Output: 	
 */
